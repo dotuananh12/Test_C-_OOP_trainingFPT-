@@ -1,0 +1,16 @@
+C:\Users\tanh1\OneDrive\Máy tính\NPL.Practice.T01\NPL.Practice.T01.Problem02\bin\Debug\net5.0\NPL.Practice.T01.Problem02.exe
+C:\Users\tanh1\OneDrive\Máy tính\NPL.Practice.T01\NPL.Practice.T01.Problem02\bin\Debug\net5.0\NPL.Practice.T01.Problem02.deps.json
+C:\Users\tanh1\OneDrive\Máy tính\NPL.Practice.T01\NPL.Practice.T01.Problem02\bin\Debug\net5.0\NPL.Practice.T01.Problem02.runtimeconfig.json
+C:\Users\tanh1\OneDrive\Máy tính\NPL.Practice.T01\NPL.Practice.T01.Problem02\bin\Debug\net5.0\NPL.Practice.T01.Problem02.runtimeconfig.dev.json
+C:\Users\tanh1\OneDrive\Máy tính\NPL.Practice.T01\NPL.Practice.T01.Problem02\bin\Debug\net5.0\NPL.Practice.T01.Problem02.dll
+C:\Users\tanh1\OneDrive\Máy tính\NPL.Practice.T01\NPL.Practice.T01.Problem02\bin\Debug\net5.0\ref\NPL.Practice.T01.Problem02.dll
+C:\Users\tanh1\OneDrive\Máy tính\NPL.Practice.T01\NPL.Practice.T01.Problem02\bin\Debug\net5.0\NPL.Practice.T01.Problem02.pdb
+C:\Users\tanh1\OneDrive\Máy tính\NPL.Practice.T01\NPL.Practice.T01.Problem02\obj\Debug\net5.0\NPL.Practice.T01.Problem02.csproj.AssemblyReference.cache
+C:\Users\tanh1\OneDrive\Máy tính\NPL.Practice.T01\NPL.Practice.T01.Problem02\obj\Debug\net5.0\NPL.Practice.T01.Problem02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanh1\OneDrive\Máy tính\NPL.Practice.T01\NPL.Practice.T01.Problem02\obj\Debug\net5.0\NPL.Practice.T01.Problem02.AssemblyInfoInputs.cache
+C:\Users\tanh1\OneDrive\Máy tính\NPL.Practice.T01\NPL.Practice.T01.Problem02\obj\Debug\net5.0\NPL.Practice.T01.Problem02.AssemblyInfo.cs
+C:\Users\tanh1\OneDrive\Máy tính\NPL.Practice.T01\NPL.Practice.T01.Problem02\obj\Debug\net5.0\NPL.Practice.T01.Problem02.csproj.CoreCompileInputs.cache
+C:\Users\tanh1\OneDrive\Máy tính\NPL.Practice.T01\NPL.Practice.T01.Problem02\obj\Debug\net5.0\NPL.Practice.T01.Problem02.dll
+C:\Users\tanh1\OneDrive\Máy tính\NPL.Practice.T01\NPL.Practice.T01.Problem02\obj\Debug\net5.0\ref\NPL.Practice.T01.Problem02.dll
+C:\Users\tanh1\OneDrive\Máy tính\NPL.Practice.T01\NPL.Practice.T01.Problem02\obj\Debug\net5.0\NPL.Practice.T01.Problem02.pdb
+C:\Users\tanh1\OneDrive\Máy tính\NPL.Practice.T01\NPL.Practice.T01.Problem02\obj\Debug\net5.0\NPL.Practice.T01.Problem02.genruntimeconfig.cache
